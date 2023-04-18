@@ -5,6 +5,7 @@ public class Demo4 {
 	}
 	public static void main(int a) {
 		System.out.println("Created a new branch in GIT and working on it!!");
+		System.out.println("Thank you");
 	}
 }
 
