@@ -9,5 +9,8 @@ public class Demo4 {
 		System.out.println("I've made some changes here!");
 		System.out.println("New line");
 	}
+	public static void main(float b) {
+		System.out.println("created a new method");
+	}
 }
 
