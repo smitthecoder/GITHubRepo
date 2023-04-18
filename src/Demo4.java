@@ -13,7 +13,7 @@ public class Demo4 {
 		System.out.println("created a new method here");
 	}
 	public static void main(String c) {
-		System.out.println("String c");
+		System.out.println("String c 1 commit");
 	}
 }
 
